@@ -1,0 +1,7 @@
+site_name: "jenkins-jenkins-demo-sam-rrr"
+docs_dir: docs
+site_description: "sohel"
+nav:
+  - Introduction: index.md
+plugins:
+  - techdocs-core
